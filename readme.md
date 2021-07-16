@@ -1,4 +1,4 @@
-##DeepArmor Data Science Coding Challenge##
+#DeepArmor Data Science Coding Challenge#
 
 This coding challenge is divided into two parts:
 1. Two small coding tasks, both of which need to be completed
