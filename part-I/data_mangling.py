@@ -8,7 +8,7 @@ string_input = (
 # please create a script that takes the above input and breaks it into a numpy array of type double
 # hint: every distinct value starts with the character f
 
-# please enter your solution to part I here:
+# please enter your solution here:
 
 # well, it turns out that in order to be ingested by our model we have to solve a few more problems with our data
 # the zeroeth column is the label, please split that out into it's own array
@@ -16,4 +16,4 @@ string_input = (
 # our model expects an array of dimensionality (1,6) due to a legacy code issue,
 # please make the vector conform to the input dimension
 
-# please enter your solution to part II here:
+# please enter your solution here:

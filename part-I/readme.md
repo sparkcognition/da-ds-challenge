@@ -1,3 +1,5 @@
-Please complete both of the tasks outline in the python (.py) scripts here.
+# DeepArmor Data Science Challenge Part I
 
-You will find the resources you need to complete the feature masking challenge in the resources folder. 
+Please complete both of the tasks outlined in the data_mangling and feature_mask python (.py) scripts here.
+
+You will find the files you need to complete the feature masking challenge in the resources folder. 
