@@ -1,5 +1,7 @@
 # DeepArmor Data Science Challenge
 
+## Part II - Deep Learning Challenge
+
 This is the deep learning challenge section. 
 
 You will find in this repo a resources folder containing your data and a diagram of a basic inception block implementation for your reference.
