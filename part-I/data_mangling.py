@@ -4,9 +4,9 @@ string_input = (
 
 # our tokenizer written in EarSharp has had a bit of a malfunction. we had expected a nicely formatted list of floats
 # separated by commas, but got the above output. our song lyrics sentiment analysis model cannot process them as-is
-# luckily we were able to confirm that the values themselves are correct in the dataset
-# please create a script that takes the above input and breaks it into a numpy array of type double
-# hint: every distinct value starts with the character f
+# luckily we were able to confirm that the values themselves are correct in the dataset but there were some unwanted
+# insertions please create a script that takes the above input and breaks it into a numpy array of type double
+# hint: every distinct value in string_input starts with the character f
 
 # please enter your solution here:
 
